@@ -13,9 +13,9 @@
   ></a>
 </p>
 </div>
-- [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-- [Team](#team)
+[Curriculum](#curriculum)
+[Code of conduct](#code-of-conduct)
+[Team](#team)
 
 **Organization**. The curriculum is designed as follows:
 - *Intro CS* ~5 months
@@ -25,7 +25,7 @@
 
 **Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies.
   
-> **Warning:** While the spreadsheet is a useful tool to estimate the time you need to complete this curriculum, it may not be up-to-date. Use the spreadsheet just to estimate the time you need. Use the [OSSU CS website](https://cs.ossu.dev) or [the repo](https://github.com/ossu/computer-science) to see what courses to do.
+> **Warning:** The spreadsheet may not be up-to-date. Use the spreadsheet to estimate the time you need. Use the [OSSU CS website](https://cs.ossu.dev) or [the repo](https://github.com/ossu/computer-science) to see what courses to do.
 
 # Curriculum
 
